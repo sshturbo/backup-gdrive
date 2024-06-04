@@ -1,1 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
 
+#wrapper {
+    display: flex;
+}
+
+#sidebar-wrapper {
+    min-width: 250px;
+    max-width: 250px;
+    height: 100vh;
+}
+
+#page-content-wrapper {
+    width: 100%;
+    padding: 20px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
