@@ -1,6 +1,6 @@
 # Backup to GDrive
 
-Projeto para fazer backup de diretório Docker e enviar ao Google Drive.
+Projeto para fazer backup de diretório e enviar ao Google Drive.
 
 ## Requisitos
 
